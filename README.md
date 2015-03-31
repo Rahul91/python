@@ -1,3 +1,3 @@
 # python
 
-A repo for pushing all py script I write.
+A repo for pushing all py scripts.
